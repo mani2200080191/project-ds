@@ -1,1 +1,1 @@
-# project-ds
+# project-bank customer churn model
