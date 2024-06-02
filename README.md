@@ -31,6 +31,7 @@ Database Management:
 
 SQL: Proficiency in SQL for data extraction and manipulation.
 NoSQL Databases: Knowledge of databases like MongoDB for unstructured data handling.
+
 🧩 Domain Knowledge:
 Banking and Financial Services:
 
@@ -40,10 +41,12 @@ Business Acumen:
 
 Strategic Thinking: Ability to align data-driven insights with business goals.
 Customer Retention Strategies: Knowledge of effective customer retention methods.
+
 💼 Soft Skills:
 Problem-Solving: Innovative approaches to complex problems.
 Communication: Effective presentation of findings and recommendations.
 Collaboration: Teamwork skills to work seamlessly with various stakeholders.
+
 📚 Learning Resources:
 Online Courses: Coursera, edX, and Udacity offer courses on data science, machine learning, and predictive analytics.
 Books: "Python for Data Analysis" by Wes McKinney, "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron.
